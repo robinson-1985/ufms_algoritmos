@@ -1,0 +1,1 @@
+// 8.5 Dados x inteiro e n um natural, calcular x elevado a n.
